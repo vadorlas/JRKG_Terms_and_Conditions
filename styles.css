@@ -20,6 +20,10 @@ ol {
     margin-inline-start: 2rem;
 }
 
+ul {
+    list-style-type: "- ";
+}
+
 p.header-desc {
     text-indent: 1rem;
 }
