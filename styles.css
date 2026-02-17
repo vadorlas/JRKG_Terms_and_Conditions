@@ -1,0 +1,33 @@
+
+html {
+  scroll-padding-top: 70px;
+  scroll-behavior: smooth;
+}
+
+/* To match Bootstrap's .h5 style */
+ol.list-group li::marker {
+    font-size: 1.25rem;   
+    font-weight: 500;    
+    color: #212529;   
+}
+
+ol.list-group li {
+    padding-left: 0.5rem;
+    margin-top: 0.3rem;
+}
+
+ol {
+    margin-inline-start: 2rem;
+}
+
+p.header-desc {
+    text-indent: 1rem;
+}
+
+section {
+    margin-bottom: 5rem;
+}
+
+section#privacy {
+    margin-top: 5rem;
+}
